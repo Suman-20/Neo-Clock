@@ -7,7 +7,7 @@ This project displays both analog hands and digital time, including **AM/PM form
 
 ## 📷 
 
-![image](https://github.com/user-attachments/assets/ddd430c5-386e-440e-a638-538dc534e17c)
+![Screenshot 2025-04-08 231923](https://github.com/user-attachments/assets/a7cc21c6-d04a-4595-b775-ae73a339b202)
 
 ---
 ## 🔗 Live Demo
