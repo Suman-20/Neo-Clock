@@ -5,13 +5,11 @@ This project displays both analog hands and digital time, including **AM/PM form
 
 ---
 
-## 📷 Screenshot
+## 📷 
 
 ![image](https://github.com/user-attachments/assets/ddd430c5-386e-440e-a638-538dc534e17c)
 
-
 ---
-
 ## 🔗 Live Demo
 
 👉 https://neo-clock-suman-rauls-projects.vercel.app/
@@ -37,4 +35,4 @@ This project displays both analog hands and digital time, including **AM/PM form
 
 ## 🚀 Author
 
-Made with ❤️ by [SUMAN RAUL](https://github.com/your-username)
+Made with ❤️ by [SUMAN RAUL](https://github.com/Suman-20)
