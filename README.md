@@ -6,7 +6,7 @@ This project displays both analog hands and digital time, including **AM/PM form
 ---
 
 ## 📷 
-<img src="![image](https://github.com/user-attachments/assets/afa77ca5-6ae6-481f-af65-9425f3daf92b)
+<img src="https://github.com/user-attachments/assets/afa77ca5-6ae6-481f-af65-9425f3daf92b
 " alt="NeoClock Screenshot" width="600"/>
 
 
