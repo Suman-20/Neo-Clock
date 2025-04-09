@@ -36,8 +36,8 @@ function updateclock(){
 
       // add zero before single digit
       h = (h<10) ? "0" + h : h
-      m = (h<10) ? "0" + m : m
-      s = (h<10) ? "0" + s : s
+      m = (m<10) ? "0" + m : m
+      s = (s<10) ? "0" + s : s
 
       hour.innerHTML = h;
       minutes.innerHTML = m;
