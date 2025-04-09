@@ -6,7 +6,7 @@ This project displays both analog hands and digital time, including **AM/PM form
 ---
 
 ## 📷 
- <img src="clock.png" alt="Redmi Phone" width="200" height="auto">
+ <img src="clock.png" alt="Redmi Phone" width="400" height="auto">
 
 
 
